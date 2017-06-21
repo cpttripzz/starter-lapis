@@ -1,0 +1,366 @@
+[
+  {
+    "country_code": "IL",
+    "name": "Tel Aviv",
+    "region_id": null,
+    "latitude": 32.0852999,
+    "longitude": 34.7817676
+  },
+  {
+    "country_code": "CA",
+    "name": "Toronto",
+    "region_id": 1,
+    "latitude": 43.653226,
+    "longitude": -79.3831843
+  },
+  {
+    "country_code": "CA",
+    "name": "Vancouver",
+    "region_id": 2,
+    "latitude": 49.261226,
+    "longitude": -123.1139268
+  },
+  {
+    "country_code": "IL",
+    "name": "Jerusalem",
+    "region_id": null,
+    "latitude": 31.768319,
+    "longitude": 35.21371
+  },
+  {
+    "country_code": "IL",
+    "name": "Haifa",
+    "region_id": null,
+    "latitude": 32.7940463,
+    "longitude": 34.989571
+  },
+  {
+    "country_code": "GB",
+    "name": "London",
+    "region_id": null,
+    "latitude": 51.508515,
+    "longitude": -0.1254872
+  },
+  {
+    "country_code": "US",
+    "name": "New York",
+    "region_id": 3,
+    "latitude": 40.7056308,
+    "longitude": -73.9780035
+  },
+  {
+    "country_code": "US",
+    "name": "Detroit",
+    "region_id": 4,
+    "latitude": 42.331427,
+    "longitude": -83.0457538
+  },
+  {
+    "country_code": "US",
+    "name": "Los Angeles",
+    "region_id": 5,
+    "latitude": 34.0522342,
+    "longitude": -118.2436849
+  },
+  {
+    "country_code": "CA",
+    "name": "Newmarket",
+    "region_id": 1,
+    "latitude": 44.059187,
+    "longitude": -79.461256
+  },
+  {
+    "country_code": "CA",
+    "name": "Ottawa",
+    "region_id": 1,
+    "latitude": 45.4215296,
+    "longitude": -75.6971931
+  },
+  {
+    "country_code": "CA",
+    "name": "Winnipeg",
+    "region_id": 6,
+    "latitude": 49.8997541,
+    "longitude": -97.1374937
+  },
+  {
+    "country_code": "CA",
+    "name": "London",
+    "region_id": 1,
+    "latitude": 42.9869502,
+    "longitude": -81.243177
+  },
+  {
+    "country_code": "CA",
+    "name": "Mississauga",
+    "region_id": 1,
+    "latitude": 43.5890452,
+    "longitude": -79.6441198
+  },
+  {
+    "country_code": "CA",
+    "name": "Keswick",
+    "region_id": 1,
+    "latitude": 44.2436111,
+    "longitude": -79.4758333
+  },
+  {
+    "country_code": "CA",
+    "name": "Montreal",
+    "region_id": 7,
+    "latitude": 45.5086699,
+    "longitude": -73.5539925
+  },
+  {
+    "country_code": "CA",
+    "name": "Quebec City",
+    "region_id": 7,
+    "latitude": 46.8032826,
+    "longitude": -71.242796
+  },
+  {
+    "country_code": "CA",
+    "name": "Vancouver",
+    "region_id": 2,
+    "latitude": 49.261226,
+    "longitude": -123.1139268
+  },
+  {
+    "country_code": "GB",
+    "name": "London",
+    "region_id": null,
+    "latitude": 51.508515,
+    "longitude": -0.1254872
+  },
+  {
+    "country_code": "GB",
+    "name": "Glasgow",
+    "region_id": 8,
+    "latitude": 55.864237,
+    "longitude": -4.251806
+  },
+  {
+    "country_code": "GB",
+    "name": "Liverpool",
+    "region_id": 9,
+    "latitude": 53.4083714,
+    "longitude": -2.9915726
+  },
+  {
+    "country_code": "GB",
+    "name": "Cardiff",
+    "region_id": 10,
+    "latitude": 51.481581,
+    "longitude": -3.17909
+  },
+  {
+    "country_code": "IL",
+    "name": "Ramat Gan",
+    "region_id": null,
+    "latitude": 32.068424,
+    "longitude": 34.824785
+  },
+  {
+    "country_code": "IL",
+    "name": "Jerusalem",
+    "region_id": null,
+    "latitude": 31.768319,
+    "longitude": 35.21371
+  },
+  {
+    "country_code": "IL",
+    "name": "Lod",
+    "region_id": null,
+    "latitude": 31.951014,
+    "longitude": 34.888075
+  },
+  {
+    "country_code": "IL",
+    "name": "Ramat HaSharon",
+    "region_id": null,
+    "latitude": 32.137793,
+    "longitude": 34.840278
+  },
+  {
+    "country_code": "IL",
+    "name": "Tel Aviv",
+    "region_id": null,
+    "latitude": 32.0852999,
+    "longitude": 34.7817676
+  },
+  {
+    "country_code": "IL",
+    "name": "Netanya",
+    "region_id": null,
+    "latitude": 32.321458,
+    "longitude": 34.853196
+  },
+  {
+    "country_code": "IL",
+    "name": "Eilat",
+    "region_id": null,
+    "latitude": 29.557669,
+    "longitude": 34.951925
+  },
+  {
+    "country_code": "IL",
+    "name": "Haifa",
+    "region_id": null,
+    "latitude": 32.7940463,
+    "longitude": 34.989571
+  },
+  {
+    "country_code": "IL",
+    "name": "Beersheva",
+    "region_id": null,
+    "latitude": 31.252973,
+    "longitude": 34.791462
+  },
+  {
+    "country_code": "IL",
+    "name": "Rishon LeTzion",
+    "region_id": null,
+    "latitude": 31.9704266,
+    "longitude": 34.7929641
+  },
+  {
+    "country_code": "IL",
+    "name": "Herzliyya",
+    "region_id": null,
+    "latitude": 32.162413,
+    "longitude": 34.844675
+  },
+  {
+    "country_code": "US",
+    "name": "Miami",
+    "region_id": 11,
+    "latitude": 25.7890972,
+    "longitude": -80.2040435
+  },
+  {
+    "country_code": "US",
+    "name": "San Antonio",
+    "region_id": 12,
+    "latitude": 29.4241219,
+    "longitude": -98.4936282
+  },
+  {
+    "country_code": "US",
+    "name": "Oklahoma City",
+    "region_id": 13,
+    "latitude": 35.4675602,
+    "longitude": -97.5164276
+  },
+  {
+    "country_code": "US",
+    "name": "Newark",
+    "region_id": 14,
+    "latitude": 40.735657,
+    "longitude": -74.1723667
+  },
+  {
+    "country_code": "US",
+    "name": "San Francisco",
+    "region_id": 5,
+    "latitude": 37.7749295,
+    "longitude": -122.4194155
+  },
+  {
+    "country_code": "US",
+    "name": "Buffalo",
+    "region_id": 3,
+    "latitude": 42.8864468,
+    "longitude": -78.8783689
+  },
+  {
+    "country_code": "US",
+    "name": "Seattle",
+    "region_id": 15,
+    "latitude": 47.6062095,
+    "longitude": -122.3320708
+  },
+  {
+    "country_code": "ES",
+    "name": "Barcelona",
+    "region_id": 16,
+    "latitude": 41.3850639,
+    "longitude": 2.1734035
+  },
+  {
+    "country_code": "ES",
+    "name": "Madrid",
+    "region_id": 17,
+    "latitude": 40.4167754,
+    "longitude": -3.7037902
+  },
+  {
+    "country_code": "CN",
+    "name": "Hong Kong",
+    "region_id": null,
+    "latitude": 22.396428,
+    "longitude": 114.109497
+  },
+  {
+    "country_code": "CN",
+    "name": "Shanghai",
+    "region_id": 18,
+    "latitude": 31.230416,
+    "longitude": 121.473701
+  },
+  {
+    "country_code": "CN",
+    "name": "Beijing",
+    "region_id": 19,
+    "latitude": 39.90403,
+    "longitude": 116.407526
+  },
+  {
+    "country_code": "FR",
+    "name": "Paris",
+    "region_id": 20,
+    "latitude": 48.856614,
+    "longitude": 2.3522219
+  },
+  {
+    "country_code": "FR",
+    "name": "Nice",
+    "region_id": 21,
+    "latitude": 43.7101728,
+    "longitude": 7.2619532
+  },
+  {
+    "country_code": "EG",
+    "name": "Cairo",
+    "region_id": 22,
+    "latitude": 30.0444196,
+    "longitude": 31.2357116
+  },
+  {
+    "country_code": "JP",
+    "name": "Tokyo",
+    "region_id": 23,
+    "latitude": 35.6894875,
+    "longitude": 139.6917064
+  },
+  {
+    "country_code": "JP",
+    "name": "Osaka",
+    "region_id": 24,
+    "latitude": 34.6937378,
+    "longitude": 135.5021651
+  },
+  {
+    "country_code": "MX",
+    "name": "Mexico City",
+    "region_id": 25,
+    "latitude": 19.4326077,
+    "longitude": -99.133208
+  },
+  {
+    "country_code": "MX",
+    "name": "Acapulco",
+    "region_id": 26,
+    "latitude": 16.8636111,
+    "longitude": -99.8825
+  }
+]
